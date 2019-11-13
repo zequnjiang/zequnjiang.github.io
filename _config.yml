@@ -4,8 +4,8 @@ email: 932054879@qq.com
 url: https://zequnjiang.github.io
 description: "小泽的小站"
 keywords: "小泽,蒋泽群,Ozawa,ozawa,泽群,zequnjiang,zequn,OzawaJiang,Android"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "惊不惊喜？意不意外？开不开心？嗨不嗨皮？"
+meta_author: Zequn Jiang
 
 # Google webmaster tools
 google_verify:
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Dr. Zequn Jiang
+  location: Shanghai, China.
   social: Around the Web
   credits: Credits
 
@@ -52,11 +52,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Shanghai, China.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'ANDROID,HTML,CSS,JS,KOTLIN,PHOTOGRAPHY'
 
 # Build settings
 markdown: kramdown
